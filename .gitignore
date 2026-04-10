@@ -1,2 +1,11 @@
-
-/.venv
+/.venv/
+*.avi
+*.mp4
+*.pt
+__pycache__/
+*.pyc
+output*/
+vedio.mp4
+new4.avi
+*.pkl
+.DS_Store
